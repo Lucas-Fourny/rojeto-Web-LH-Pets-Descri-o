@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "AvGnlzV/bj5zIWI+HHKY5ifQCntMxJX6tn+Vrb2PjlA=",
+  "Source": "Projeto Web - LH Pets version 1",
+  "BasePath": "_content/Projeto Web - LH Pets version 1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web - LH Pets version 1\\wwwroot",
+      "Source": "Projeto Web - LH Pets version 1",
+      "ContentRoot": "E:\\Senai\\Projeto Web - LH Pets version 1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web - LH Pets version 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Senai\\Projeto Web - LH Pets version 1\\wwwroot\\index.html",
+      "SourceId": "Projeto Web - LH Pets version 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Senai\\Projeto Web - LH Pets version 1\\wwwroot\\",
+      "BasePath": "_content/Projeto Web - LH Pets version 1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
